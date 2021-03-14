@@ -1,4 +1,4 @@
-### Hi there, I'm Paulo - aka [PScordeiro][https://pscordeiro.me/] 👋
+### Hi there, I'm Paulo
 
 <!-- 
 

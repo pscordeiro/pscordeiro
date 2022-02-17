@@ -60,7 +60,7 @@
 # :satellite: Social Network
 
 <p>
-  <a href="https://pscordeiro.me" target="_blank"><img src="https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://pscordeiro.live" target="_blank"><img src="https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
   <a href="https://linkedin.com/in/pscordeiro" target="_blank"><img src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://t.me/pscordeiro" target="_blank"><img src="https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=Telegram&logoColor=white)" /></a>
   <a href="https://twitter.com/v4ipc" target="_blank"><img src="https://img.shields.io/badge/Twitter-0088cc?style=for-the-badge&logo=Twitter&logoColor=white)" /></a>

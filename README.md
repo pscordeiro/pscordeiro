@@ -12,11 +12,6 @@
 - ⚡ Fun fact: ...
   -->
 
-### Spotify Playing 🎧
-
-[<img src="https://novatorem-pscordeiro.vercel.app/api/spotify" alt="Pscordeiro Spotify Playing" width="350" />](https://open.spotify.com/user/ps.cordeiro01)
-
-
 
 # :zap: Technologies
 

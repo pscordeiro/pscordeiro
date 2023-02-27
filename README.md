@@ -11,7 +11,10 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
   -->
+  
+### Spotify Playing 🎧
 
+[<img src="https://spotify-player-sooty.vercel.app/api/spotify" alt="Pscordeiro Spotify Playing" width="350" />](https://open.spotify.com/user/ps.cordeiro01)
 
 # :zap: Technologies
 
@@ -55,7 +58,7 @@
 # :satellite: Social Network
 
 <p>
-  <a href="https://pscordeiro.live" target="_blank"><img src="https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://pscordeiro.com" target="_blank"><img src="https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
   <a href="https://linkedin.com/in/pscordeiro" target="_blank"><img src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://t.me/pscordeiro" target="_blank"><img src="https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=Telegram&logoColor=white)" /></a>
   <a href="https://twitter.com/v4ipc" target="_blank"><img src="https://img.shields.io/badge/Twitter-0088cc?style=for-the-badge&logo=Twitter&logoColor=white)" /></a>
